@@ -1,0 +1,7 @@
+{
+  "name": "C3 Redes:",
+  "description": "An application for C3 Redes to manage field technicians, equipment maintenance, and service orders for 47 stores. Features include scheduling, QR code identification, photo attachments with image compression, and role-based user permissions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,3 @@
+// C3 Redes Logo - SVG encoded in base64
+// This allows embedding the logo into the PDF without external network requests.
+export const logoBase64 = 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNTAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAxNTAgNDAiPjx0ZXh0IHg9IjUiIHk9IjMwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMEQ0N0ExIj5DM1JlZGVzPC90ZXh0Pjwvc3ZnPg==';
